@@ -1,6 +1,6 @@
-## RODE Localmente
+## RODE LOCALMENTE EM SUA MAQUINA
 
-**Prerequisites:**  Node.js
+**REQUISITOS:**  Node.js
 
    No Terminal 
 
